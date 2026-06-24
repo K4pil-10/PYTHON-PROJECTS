@@ -1,0 +1,6 @@
+print("Welcome to the Band name Generator")
+place = input("In which place do you born? \n")
+# print(brand1)
+animal= input("what is your favourite pet?\n")
+# print(brand2)
+print("Your band name could be "+ place, animal)
