@@ -40,5 +40,5 @@
   </ul>
 </h3>
 
-<h2>Live Demo: <h3><a href"https://py-game-portfolio.vercel.app/">https://py-game-portfolio.vercel.app/</a></h3></h2>
+<h2>Live Demo: <h3><a href"https://py-games-portfolio.vercel.app/">https://py-games-portfolio.vercel.app/</a></h3></h2>
 
